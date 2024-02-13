@@ -1,0 +1,20 @@
+{
+    "workspace": {
+        "name": "Untitled Workspace",
+        "theme": "https://abstra-cloud-assets.s3.amazonaws.com/backgrounds/geometric/green-triangle.svg",
+        "brand_name": "CLASSIFICATION BETWEEN SATURN AND EARTH",
+        "logo_url": "https://abstra-cloud-assets.s3.amazonaws.com/03ee874d-1e67-4213-8258-180a03badeb9/istockphoto-1189287855-612-x-612.jpg",
+        "main_color": "#3D819A",
+        "font_family": "Handlee",
+        "font_color": "#ffffff",
+        "sidebar": [
+            {
+                "id": "helloworld",
+                "name": "helloworld",
+                "path": "helloworld",
+                "visible": false,
+                "type": "dash"
+            }
+        ]
+    }
+}
